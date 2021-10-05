@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hmncube
-- 👀 I’m interested in Kotlin, C#, Java, Android and .net
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in ReactNative, JavaScript, Kotlin, C#, Java, Android and .net
+- 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on education apps, android apps, web apps 
 - 📫 How to reach me happinessmncube@gmail.com
 

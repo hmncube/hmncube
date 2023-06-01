@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hmncube
-- 👀 I’m interested in flutter, Kotlin, C#, Java, Android, React Native and .net
-- 🌱 I’m currently learning flutter
+- 👀 I’m interested in flutter, Kotlin, C#, Java, Android, React Native and .netcore
+- 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on educational apps
 - 📫 How to reach me happinessmncube@gmail.com
 
